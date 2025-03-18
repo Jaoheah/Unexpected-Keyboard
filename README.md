@@ -9,6 +9,9 @@ This application contains no ads, doesn't make any network requests and is Open 
 Usage: to apply the symbols located in the corners of each key, slide your finger in the direction of the symbols. For example, the Settings are opened by sliding in the left down corner.
 
 
+Original can be found here: https://github.com/Julow/Unexpected-Keyboard
+
+
 ## Similar apps
 * [Calculator++](https://git.bubu1.eu/Bubu/android-calculatorpp) - Calculator with a similar UX, swipe to corners for advanced math symbols and operators.
 
