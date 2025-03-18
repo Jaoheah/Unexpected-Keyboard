@@ -86,7 +86,7 @@
     <item name="android:isLightTheme">false</item>
     <item name="colorKeyboard">#000000</item>
     <item name="colorKey">#000000</item>
-    <item name="colorKeyActivated">#8049136c</item>
+    <item name="colorKeyActivated">#000000</item>
     <item name="keyBorderWidth">0dp</item>
     <item name="keyBorderWidthActivated">1dp</item>
     <item name="keyBorderColorLeft">#49136c</item>
