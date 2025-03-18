@@ -94,7 +94,7 @@
     <item name="keyBorderColorRight">#49136c</item>
     <item name="keyBorderColorBottom">#49136c</item>
     <item name="colorLabel">#49136c</item>
-    <item name="colorLabelActivated">#49136c</item>
+    <item name="colorLabelActivated">#6c1363</item>
     <item name="colorLabelLocked">#00ff26</item>
     <item name="colorSubLabel">#49136c</item>
     <item name="keyBorderRadius">1dp</item>
